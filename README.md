@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, gua Daffa 👋
 
-<!--
-**daffaalukman/daffaalukman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa **Statistika dan Sains Data, IPB University**.
+Suka ngolah data jadi insight yang bisa dipakai.
 
-Here are some ideas to get you started:
+## 🛠️ Tools
+**Bahasa:** R · Python · SQL
+**Lainnya:** Git · Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Proyek pilihan
+- [Analisis Regresi](https://github.com/daffaalukman/008_Analisis-Regresi): analisis regresi dari mata kuliah
+- [Metode Peramalan Deret Waktu](https://github.com/daffaalukman/Metode-Peramalan-Deret-Waktu): peramalan dengan metode time series
+
+## 📫 Kontak
+[LinkedIn](www.linkedin.com/in/daffa-lukman-wahid-al-jailani-86458a323) · [Email](mailto:daffalukman78@gmail.com)
